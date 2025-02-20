@@ -1,4 +1,5 @@
 import Flogo from "../assets/logo_foot.png";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -25,28 +26,28 @@ function Footer() {
           </p>
           <ul className="space-y-1">
             <li>
-              <a
-                href="#"
+              <Link
+                to="/product"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Handmade Items
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/product"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Furniture
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/product"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Paintings
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
@@ -58,36 +59,36 @@ function Footer() {
           </p>
           <ul className="space-y-1">
             <li>
-              <a
-                href="#"
+              <Link
+                to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Homepage
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/about"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 About Us
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Help
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Contact Us
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
@@ -99,28 +100,28 @@ function Footer() {
           </p>
           <ul className="space-y-1">
             <li>
-              <a
-                href="#"
+              <Link
+                to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 FAQ's
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Shipping
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#"
+              <Link
+                to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Tracking ID
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

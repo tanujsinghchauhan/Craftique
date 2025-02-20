@@ -67,7 +67,7 @@ function Home() {
               <p>23K</p>
             </div>
             <div className="flex flex-row justify-evenly gap-x-16 mt-2 items-center">
-              <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20">
+              <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20 hover:bg-orange-500 hover:text-white hover:border-transparent transition duration-300">
                 Buy Now
               </button>
               <img className="" src={Order}></img>
@@ -80,7 +80,7 @@ function Home() {
               <p>23K</p>
             </div>
             <div className="flex flex-row justify-evenly gap-x-16 mt-2 items-center">
-              <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20">
+              <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20 hover:bg-orange-500 hover:text-white hover:border-transparent transition duration-300">
                 Buy Now
               </button>
               <img className="" src={Order}></img>
@@ -93,7 +93,7 @@ function Home() {
               <p>23K</p>
             </div>
             <div className="flex flex-row justify-evenly gap-x-16 mt-2 items-center">
-              <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20">
+              <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20 hover:bg-orange-500 hover:text-white hover:border-transparent transition duration-300">
                 Buy Now
               </button>
               <img className="" src={Order}></img>
@@ -171,7 +171,7 @@ function Home() {
                   <p>23K</p>
                 </div>
                 <div className="flex flex-row justify-evenly gap-x-16 mt-2 items-center">
-                  <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20">
+                  <button className="text-orange-500 border-orange-500 border-2 rounded-md text-xs w-20 hover:bg-orange-500 hover:text-white hover:border-transparent transition duration-300">
                     Buy Now
                   </button>
                   <img src={Order} alt="Order Icon" />
