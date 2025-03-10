@@ -1,0 +1,190 @@
+[
+  {
+    "question": "how",
+    "answer": "Please write a complete question"
+  },
+  {
+    "question": "are",
+    "answer": "Could you clarify your question?"
+  },
+  {
+    "question": "is",
+    "answer": "Please provide more details."
+  },
+  {
+    "question": "what",
+    "answer": "What specifically would you like to know?"
+  },
+  {
+    "question": "where",
+    "answer": "Could you specify what you're looking for?"
+  },
+  {
+    "question": "when",
+    "answer": "Please include more context in your question."
+  },
+  {
+    "question": "why",
+    "answer": "Could you clarify what you're asking about?"
+  },
+  {
+    "question": "can",
+    "answer": "Please provide a complete question."
+  },
+  {
+    "question": "do",
+    "answer": "Could you elaborate on your question?"
+  },
+  {
+    "question": "does",
+    "answer": "Please include more details in your question."
+  },
+  {
+    "question": "will",
+    "answer": "Could you clarify your question?"
+  },
+  {
+    "question": "should",
+    "answer": "Please provide more context."
+  },
+  {
+    "question": "may",
+    "answer": "Could you rephrase your question?"
+  },
+  {
+    "question": "would",
+    "answer": "Please specify what you're asking about."
+  },
+  {
+    "question": "could",
+    "answer": "Could you provide a more complete question?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hello! How may I assist you?"
+  },
+  {
+    "question": "hi",
+    "answer": "Hi there! How can I help?"
+  },
+  {
+    "question": "hey",
+    "answer": "Hey! What can I do for you?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome! Let me know if you need further assistance."
+  },
+  {
+    "question": "thank you",
+    "answer": "You're very welcome! Feel free to ask anything else."
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a great day."
+  },
+  {
+    "question": "goodbye",
+    "answer": "Take care! See you next time."
+  },
+  {
+    "question": "Who are you",
+    "answer": "I am a chatbot here to help you with our website."
+  },
+  {
+    "question": "What do you do?",
+    "answer": "I assist you with questions related to our products and services."
+  },
+  {
+    "question": "zor se bolo",
+    "answer": "Jai Mata Di"
+  },
+  {
+    "question": "how do I contact support?",
+    "answer": "You can contact customer support via email or through our contact form on the website."
+  },
+  {
+    "question": "how do I register?",
+    "answer": "You can register by clicking on the Sign Up button and filling in your details."
+  },
+  {
+    "question": "how do I login?",
+    "answer": "Click on the Login button and enter your email and password to access your account."
+  },
+  {
+    "question": "how do I reset my password?",
+    "answer": "You can reset your password by clicking 'Forgot Password' on the login page and following the instructions."
+  },
+  {
+    "question": "how do I purchase products?",
+    "answer": "You can browse through our categories, select a product, and complete your purchase through our secure checkout process."
+  },
+  {
+    "question": "how do I track my order?",
+    "answer": "You will receive an order tracking number via email once your order has been shipped."
+  },
+  {
+    "question": "how do I cancel an order?",
+    "answer": "Order cancellations depend on the artisan's policy. Please check with the seller before canceling."
+  },
+  {
+    "question": "how are artisans paid?",
+    "answer": "Artisans receive payments directly to their preferred payment method after the order is successfully completed."
+  },
+  {
+    "question": "is there a mobile app version?",
+    "answer": "Currently, we offer a web-based platform, but a mobile app version is in development."
+  },
+  {
+    "question": "how can I commission an artist?",
+    "answer": "You can commission an artist by visiting their profile and sending a custom request detailing your needs."
+  },
+  {
+    "question": "are all products handmade?",
+    "answer": "Yes, all products sold on our platform are handcrafted by skilled artisans and craftsmen."
+  },
+  {
+    "question": "what payment methods are available?",
+    "answer": "We support various payment methods, including credit/debit cards, PayPal, and direct bank transfers."
+  },
+  {
+    "question": "can I return or exchange products?",
+    "answer": "Returns and exchanges depend on the artisan's policy. Be sure to check the product details for return eligibility."
+  },
+  {
+    "question": "do you offer gift cards?",
+    "answer": "Yes! You can purchase gift cards through our website."
+  },
+  {
+    "question": "what are your shipping policies?",
+    "answer": "Shipping times and costs vary based on the artisan's location. Check the product details for more information."
+  },
+  {
+    "question": "do you ship internationally?",
+    "answer": "Yes, we offer international shipping for most products. Please check with the artisan for specific details."
+  },
+  {
+    "question": "how do I leave a review?",
+    "answer": "You can leave a review on a product's page after making a purchase."
+  },
+  {
+    "question": "how do I become a seller?",
+    "answer": "You can become a seller by signing up and submitting an application through our Seller Portal."
+  },
+  {
+    "question": "do you have a referral program?",
+    "answer": "Yes! You can earn rewards by referring friends to our platform."
+  },
+  {
+    "question": "how do I update my profile?",
+    "answer": "Go to your profile settings and edit your information as needed."
+  },
+  {
+    "question": "how do I delete my account?",
+    "answer": "If you wish to delete your account, please contact our support team for assistance."
+  },
+  {
+    "question": "what is this platform about?",
+    "answer": "This platform connects customers with small artisans and craftsmen, allowing them to showcase and sell their handmade products."
+  }
+]

@@ -74,20 +74,28 @@ function Footer() {
                 About Us
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link
                 to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Help
               </Link>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <Link
                 to="/"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 Contact Us
+              </Link>
+            </li> */}
+            <li>
+              <Link
+                to="/commission"
+                className="hover:text-white transition text-xs sm:text-sm"
+              >
+                Commission an Artist
               </Link>
             </li>
           </ul>
@@ -101,7 +109,7 @@ function Footer() {
           <ul className="space-y-1">
             <li>
               <Link
-                to="/"
+                to="/faq"
                 className="hover:text-white transition text-xs sm:text-sm"
               >
                 FAQ's
