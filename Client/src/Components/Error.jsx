@@ -14,7 +14,9 @@ function Error() {
         <Navbar></Navbar>
         <p className="text-[#F9D9AA] text-3xl sm:text-4xl font-bold">
           "It seems you have reached an unknow page{" "}
-          <Link className="text-[#FF902B]">Click Here </Link>
+          <Link to="/" className="text-[#FF902B]">
+            Click Here{" "}
+          </Link>
           to go back to Home Page."
         </p>
         <img src={Errorp}></img>
