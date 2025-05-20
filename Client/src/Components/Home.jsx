@@ -40,8 +40,7 @@ function Home() {
             treasures before your next adventure."
           </p>
           <p className="text-[#FF902B] mt-6 sm:mt-8">
-            Team : Third Impact Tanuj Singh Chauhan : 23BDS1156 Sahil Kumar :
-            23BDS1099 Tarang Narayan : 23BDS1120
+            Help small artisans in preserving their art and tradition
           </p>
           <div className="mt-6 sm:mt-8 flex flex-col sm:flex-row justify-center sm:justify-evenly space-y-4 sm:space-y-0 sm:space-x-4">
             <Link to="/product">
